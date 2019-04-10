@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://39.106.68.210:8080/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2019 10:40:47 +0800</lastBuildDate>
+    <atom:link href="http://39.106.68.210:8080/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://39.106.68.210:8080/posts/first/</link>
+      <pubDate>Wed, 10 Apr 2019 10:40:47 +0800</pubDate>
+      
+      <guid>http://39.106.68.210:8080/posts/first/</guid>
+      <description>&lt;p&gt;hello,world!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
